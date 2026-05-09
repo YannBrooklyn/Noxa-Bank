@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Java / Spring
+target/
+*.class
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# Flutter
+.dart_tool/
+build/
+ios/Pods/
+.pub-cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Docker
+*.log
